@@ -98,6 +98,10 @@ Through extensive exploratory data analysis (EDA), feature engineering, dimensio
 - Develop interactive dashboards for business users.
 - Explore advanced clustering (deep learning-based methods).
 
+## 📑 Credits
+Project completed as part of the **MIT Applied Data Science Program**.
+
+
 ---
 
 ## 📌 Tools & Technologies
