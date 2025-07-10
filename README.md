@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Customer Segmentation
+# 📊 Marketing Customer Segmentation
 
 **Author:** Katie Kennedy  
 **Date:** March 2025  
